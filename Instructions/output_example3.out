@@ -1,0 +1,57 @@
+ |-------------------------------|
+8| R | N | B | Q | K | B | N | R |
+ |-------------------------------|
+7| M | M | M | M | M | M | M | M |
+ |-------------------------------|
+6|   |   |   |   |   |   |   |   |
+ |-------------------------------|
+5|   |   |   |   |   |   |   |   |
+ |-------------------------------|
+4|   |   |   |   |   |   |   |   |
+ |-------------------------------|
+3|   |   |   |   |   |   |   |   |
+ |-------------------------------|
+2| m | m | m | m | m | m | m | m |
+ |-------------------------------|
+1| r | n | b | q | k | b | n | r |
+ |-------------------------------|
+   a   b   c   d   e   f   g   h  
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+Enter game settings:
+White player - enter your move:
+<b,8> to <c,7>
+White player - enter your move:
+ |-------------------------------|
+8|   |   |   |   |   |   |   |   |
+ |-------------------------------|
+7|   | q | b |   |   |   |   |   |
+ |-------------------------------|
+6| M |   |   |   | B |   |   |   |
+ |-------------------------------|
+5| K |   |   | M | m |   |   | M |
+ |-------------------------------|
+4|   |   |   | m | N |   |   | Q |
+ |-------------------------------|
+3|   | m |   |   |   |   |   | m |
+ |-------------------------------|
+2|   |   |   |   |   |   | m | k |
+ |-------------------------------|
+1|   |   |   |   |   |   |   |   |
+ |-------------------------------|
+   a   b   c   d   e   f   g   h  
+Mate! White player wins the game
